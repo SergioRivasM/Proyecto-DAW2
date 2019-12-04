@@ -15,3 +15,5 @@ Diseño de una aplicación web que permite mejorar la gestión automatizada de l
 - Permite ver tus reservas actuales.
 
 - Permite también consultar un historial de reservas anteriores.
+
+- Permitirá consultar todos los eventos que hay a diario de forma actualizada, con sus respectivos horarios y requisitos.
