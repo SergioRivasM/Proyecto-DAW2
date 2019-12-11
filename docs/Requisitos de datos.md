@@ -4,7 +4,7 @@ En cuanto a los requisitos de datos a la hora del llevar a cabo una base de dato
 
  En cuanto a los nuevos usuarios que tengan que realizar un registro se le pedirá:
  
- - Código de estudiante que sería dado por la Universidad en caso de no tenerlo.
+ - Código de estudiante que sería dado por la Universidad en caso de no tenerlo
  - Nombre
  - Apellidos
  - Fecha de nacimiento
