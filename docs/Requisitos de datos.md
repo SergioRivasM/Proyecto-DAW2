@@ -11,6 +11,8 @@ En cuanto a los requisitos de datos a la hora del llevar a cabo una base de dato
  - Sexo
  - Teléfono
  
+ Cada alumno solo podrá tener una cuenta de usuario dentro de la aplicación ya que cada cuenta viene establecida y requerida por una clave principal que sería el código de estudiante.
+ 
  Por otra parte, desde la aplicación se podrán crear nuevos eventos de los que se guardará lo siguiente:
  
  - Grupo al que irá dirigido el evento
