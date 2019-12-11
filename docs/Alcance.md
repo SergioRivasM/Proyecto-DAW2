@@ -4,6 +4,10 @@
 
 Diseño de una aplicación web que permite mejorar la gestión automatizada de los procesos de inscripciones de eventos en la universidad.
 
+Esta aplicación Web que tiene como objetivo principal ofrecer a los estudiantes, docentes y público general una Gestión automatizada de los procesos de inscripciones de eventos en la Universidad. El sistema automatiza el trabajo manual de los diferentes Departamentos y Sistemas en cuanto a dichos servicios.
+
+Los puntos del alcance de esta aplicación son los siguientes:
+
 - Permite a los estudiantes hacer reservas de algún evento, sobre horarios de los eventos.
 
 - Permite a los estudiantes registrarse en la aplicación con sus datos personales de la universidad para tener su perfil de reservas.
