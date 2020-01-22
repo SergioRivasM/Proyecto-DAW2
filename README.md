@@ -14,25 +14,30 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 # Título del Proyecto
 
-#### Curso Escolar 20XX-20XX
-#### Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
+#### Curso Escolar 2020-2021
+#### Autor: [Sergio Rivas Montero](https://github.com/SergioRivasM)
 #### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
-#### Fecha de Inicio: DD-MM-YYYY
-#### Fecha de Finalización: DD-MM-YYYY
+#### Fecha de Inicio: Por definir.
+#### Fecha de Finalización: Por definir.
 
 ## Breve descripción del proyecto
 
-Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así, lo que realmente necesitas es **buscar un problema o necesidad a la que darle solución**, y estos **están por todas partes**. Así que trata de buscar problemas o necesidades en tu vida diaria y realiza una lista. Una vez que tengas una lista exhaustiva, ya puedes empezar a pensar en **cómo puedes resolverlos**.
-
-En este apartado el alumno debe hacer una breve descripción del proyecto que vaya a realizar. Esta descripción no será ua descripción detallada, será una presentación general con no más de 10 líneas.
+Aplicación web que permite mejorar la gestión automatizada de los procesos de inscripciones de eventos en la universidad.
 
 ## Definir el objetivo de la aplicación
-**Tener una gran idea** o encontrar un punto del mercado al que no se esté dando un producto o servicio es el punto de partida en cada nuevo proyecto. Antes de comenzar debes **definir claramente el propósito y la misión de la aplicación web**:
+Esta aplicación Web que tiene como objetivo principal ofrecer a los estudiantes, docentes y público general una Gestión automatizada de los procesos de inscripciones de eventos en la Universidad. El sistema automatiza el trabajo manual de los diferentes Departamentos y Sistemas en cuanto a dichos servicios.
 
 - **¿Qué va a hacer la aplicación?**
-- **¿Cuál es su atractivo principal?** 
-- **¿Qué problema concreto va a resolver?** 
+Permitirá a los estudiantes hacer reservas de algún evento, sobre horarios de los eventos. También gestionará todo lo relacionado con el interior de la aplicación, registros, cancelaciones, reservas, consultas, etc.
+
+- **¿Cuál es su atractivo principal?**
+Poder estar al tanto de todos los eventos que nos puedan interesar, y poder gestionarlos en su totalidad a tu gusto.
+
+- **¿Qué problema concreto va a resolver?**
+El problema de que muchos alumnos no tengan la información de algún evento que quieran inscribirse, y por falta de información o lugar donde informarse, se pierden esos eventos.
+
 - **¿Qué necesidad va a cubrir?**
+La necesidad de los estudiantes que demandan más información sobre los eventos llevados a cabo en las universidades.
 
 ## Prototipo de la Interfaz del proyecto
 
